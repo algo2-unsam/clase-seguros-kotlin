@@ -1,7 +1,7 @@
 
 ## Ejercicio inicial - introducción a Kotlin: Seguros
 
-[![build](https://github.com/uqbar-project/eg-seguros-kotlin/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/eg-seguros-kotlin/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/uqbar-project/eg-seguros-kotlin/branch/master/graph/badge.svg?token=E86YSKVYYW)](https://codecov.io/gh/uqbar-project/eg-seguros-kotlin)
+[![build](https://github.com/algo2-unsam/clase-seguros-kotlin/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/algo2-unsam/clase-seguros-kotlin/actions/workflows/build.yml) [![codecov](https://codecov.io/github/algo2-unsam/clase-seguros-kotlin/branch/main/graph/badge.svg?token=mtsrhwOOcU)](https://codecov.io/github/algo2-unsam/clase-seguros-kotlin)
 
 Este ejercicio tiene dos propósitos
 
